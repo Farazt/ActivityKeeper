@@ -76,9 +76,12 @@ A diagram showing the app's hierarchical component design
 + react-chart-all module
 + redux Middleware
 + react-redux
++ Higher Order Components in react
 + bookshelf
 + knex
-+ Higher Order Components in react
++ webpack
++ hotreloading
+
 
 
 [components]:./component.png
