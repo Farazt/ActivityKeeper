@@ -1,4 +1,4 @@
-# Assignment 1 - ReactJS app.
+# ReactJS app.
 
 Name: Faraz Tahir
 
@@ -27,9 +27,9 @@ This app can be used to save user daily activities like what kind of Activities 
 + bootstraptable etc 
 Full List of all the dependencies are inside the package.json file
 
-##How to Start
+## How to Start
 + Npm install
-+ npm runserver
++ npm run server
 + and than go to browser with this url: localhost:3002
 
 
@@ -44,7 +44,7 @@ Use meaningful sample data. Briefly explain any non-trivial issues.
 
 ## App Component Design.
 
-A diagram showing the app's hierarchical component design (see example below). 
+A diagram showing the app's hierarchical component design 
 
 ![][components]
 
@@ -57,7 +57,7 @@ A diagram showing the app's hierarchical component design (see example below).
 ![][Activity]
 
 ## Routing.
-. . . . List each route supported and state the associated view . . . . . 
+. . . . List each route supported  . . . . . 
 
 + IndexRoute
 + LoginRoute
@@ -72,11 +72,13 @@ A diagram showing the app's hierarchical component design (see example below).
 + Client Side authentication using Higher Order Component(You cannot enter a route which are for user views) 
 
 ## Independent learning.
-+ chart
++ chart js module
++ react-chart-all module
 + redux Middleware
 + react-redux
 + bookshelf
 + knex
++ Higher Order Components in react
 
 
 [components]:./component.png
