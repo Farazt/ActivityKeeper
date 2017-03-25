@@ -29,14 +29,10 @@ class NavigationBar extends React.Component {
 			<ul className="nav navbar-nav navbar-right">
 					<li><Link to="/signup">Sign Up</Link></li>
 					<li><Link to="/login">login</Link></li>
-			
-
-
 			</ul>
 		);
 
-
-		return(
+	return(
 		<nav className="navbar navbar-default">
 			<div className="container-fluid">
 				<div className="navbar-header">
@@ -46,8 +42,6 @@ class NavigationBar extends React.Component {
 				{isAuthenticated ? userLinks: guestLinks}
 				
 			</div>
-		
-
 		</div>
 	</nav>
 

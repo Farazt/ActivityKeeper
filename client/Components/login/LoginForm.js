@@ -37,6 +37,7 @@ class LoginForm extends React.Component{
 			console.log('pusher')},
 			(err) => {this.setState({errors: err, isLoading:false})
 				console.log(err)
+				this.context.router.push('/signup')
 			}
 		);
 		
