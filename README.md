@@ -7,12 +7,12 @@ This app can be used to save user daily activities like what kind of Activities 
 
  . . . . . List of user features (excluding user registration and authentication) . . . . 
  
- User can add activity
- User can filter activities
- User can sort Activities
- User can See the Summary of Activities
- Activity Tables
- Activity Searching/Sorting
+ + User can add activity
+ + User can filter activities
+ + User can sort Activities
+ + User can See the Summary of Activities
+ + Activity Tables
+ + Activity Searching/Sorting
  
 
 ## Installation requirements.
